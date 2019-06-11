@@ -23,3 +23,5 @@ ESP32-CAM with an open wifi access point and a captive portal,  for fast deploym
   <option value="0">QQVGA(160x120)</option><p>
 
  It's all ugly,  but it works for me.    Comments and advice for improvements are welcome.  Enjoy!
+
+![Picture1](https://github.com/dproldan/Esp32AutoCamera/blob/master/Screenshot_20190608-122806_Firefox.jpg)
