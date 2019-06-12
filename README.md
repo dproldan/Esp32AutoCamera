@@ -23,3 +23,5 @@ ESP32-CAM with an open wifi access point and a captive portal,  for fast deploym
   <option value="0">QQVGA(160x120)</option><p>
 
  It's all ugly,  but it works for me.    Comments and advice for improvements are welcome.  Enjoy!
+
+To compile for the ESP-EYE, uncomment out CAMERA_MODEL_ESP_EYE (and comment out the other models), select "ESP32 Wrover Module" for the board and partition scheme "Huge APP (3MB No OTA)"
