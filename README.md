@@ -24,4 +24,6 @@ ESP32-CAM with an open wifi access point and a captive portal,  for fast deploym
 
  It's all ugly,  but it works for me.    Comments and advice for improvements are welcome.  Enjoy!
 
-![Picture1](https://github.com/dproldan/Esp32AutoCamera/blob/master/Screenshot_20190608-122806_Firefox.jpg)
+![Picture1](docs/media/Screenshot_20190608-122806_Firefox.jpg)
+
+To compile for the ESP-EYE, uncomment out CAMERA_MODEL_ESP_EYE (and comment out the other models), select "ESP32 Wrover Module" for the board and partition scheme "Huge APP (3MB No OTA)"
